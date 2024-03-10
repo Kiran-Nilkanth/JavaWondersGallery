@@ -18,4 +18,4 @@ Feel free to use and modify the provided programs. Each program is designed to b
 
 ## Contact
 Name - kirannilkanth12@gmail.com
-Project Link: https://github.com/Kiran_Nilkanth/JavaWondersGallery
+Project Link: https://github.com/Kiran-Nilkanth/JavaWondersGallery
